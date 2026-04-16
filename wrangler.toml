@@ -1,4 +1,5 @@
 name = "showcase-app"
+account_id = "60bc0d18ed5229edce6eb9712d7900d9"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
